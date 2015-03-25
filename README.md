@@ -1,5 +1,5 @@
 # JATSChicken
-JATS markup for Doug Zongker's justly-famous "Chicken Chicken" article
+JATS markup for Doug Zongker's justly-famous "Chicken Chicken" article (https://isotropic.org/papers/chicken.pdf)
 
 I did this in a tearing hurry for my LIS 652 "XML and Linked Data" course. Pull requests welcome, if anybody has the patience and doesn't mind hating the word "chicken" forever after.
 
